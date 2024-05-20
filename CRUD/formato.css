@@ -97,8 +97,6 @@ table th{
 }
 
 body {
-    /* Establece la imagen de fondo y asegura que cubra toda la pantalla */
     background: url('chapulin.jpg') no-repeat center center fixed;
-    /* Ajusta el tamaño de la imagen para cubrir toda la pantalla */
     background-size: cover;
 }
